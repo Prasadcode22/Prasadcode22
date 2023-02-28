@@ -13,4 +13,4 @@
 </a>
 <br></br>
 
-Hey, i'm [Prasad Aher](https://www.linkedin.com/in/prasad-aher-38b56a267/) a Python programmer with experience in data science libraries like NumPy and Pandas. I'm currently focused on expanding knowledge in AI and machine learning. I enjoys collaborating with others and is excited about the potential of data science to make a difference in various industries.
+Hey, i'm [Prasad Aher](https://www.linkedin.com/in/prasad-aher-38b56a267/) a Python programmer with experience in data science libraries like NumPy and Pandas. I'm currently focused on expanding knowledge in AI and machine learning. I enjoys collaborating with others and is excited about the potential of data science to make a difference in various industries. I'm certified [Python programmer](https://www.hackerrank.com/certificates/0c8db4078008) on hackerrank.
