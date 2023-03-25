@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/Prasadcode22/README_FILE/blob/main/Hi.gif" width="30px"> I'm Prasad Aher</h1>
-<h3 align="center">git commit -m "Hello, I'm intern at TheStarkFoundation"</h3>
+<h3 align="center">git commit -m "Hello, I'm Data Analyst"</h3>
 
 <a href="https://www.linkedin.com/in/prasad-aher-38b56a267/">
   <img align="left" alt="Prasad's LinkedIN" width="22px" src="https://github.com/Prasadcode22/README_FILE/blob/main/linedin.png" />
