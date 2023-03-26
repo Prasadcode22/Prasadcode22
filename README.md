@@ -9,7 +9,7 @@
 <br></br>
 <p align="left"> <a href="https://twitter.com/OfficialPrasad0" target="blank"><img src="https://img.shields.io/twitter/follow/OfficialPrasad0?logo=twitter&style=for-the-badge" alt="OfficialPrasad0" /></a> </p>
 
-### Liked my GitHub:question::point_right: [Sponsor me a Dollar](https://t.co/z1ya8nt5mT?amp=1) 💰 💵 :sparkles:
+### Liked my GitHub:question::point_right: [Sponsor me a Dollar]() 💰 💵 :sparkles:
 
 - 👨‍💻 All about me is at [My Website](https://Prasadcode22.github.io/), [Linkedin](https://www.linkedin.com/in/prasad-aher-38b56a267/)
 
