@@ -1,13 +1,13 @@
 <h1 align="center">Hi <img src="https://github.com/Prasadcode22/README_FILE/blob/main/Hi.gif" width="30px"> I'm Prasad Aher</h1>
 <h3 align="center">git commit -m "Hello, I'm Data Analyst"</h3>
 
-### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Prasadcode22&label=Profile%20views&color=0e75b6&style=flat" alt="Prasadcode22" /> </p>
+<p align="left"> <a href="https://twitter.com/OfficialPrasad0" target="blank"><img src="https://img.shields.io/twitter/follow/OfficialPrasad0?logo=twitter&style=for-the-badge" alt="OfficialPrasad0" /></a> 
+<!--   <a href="https://instagram.com/aherprasadofficial" target="blank"><img src="https://img.shields.io/instagram/follow/aherprasadofficail?logo=instagram&style=for-the-badge" alt="aherprasadofficial" /></a>  -->
+</p> 
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Prasadcode22&label=Profile%20views&color=0e75b6&style=flat" alt="Prasadcode22" /> </p>
 
 ![Banner](https://github.com/Prasadcode22/README_FILE/blob/main/2.png)
 <br></br>
-<p align="left"> <a href="https://twitter.com/OfficialPrasad0" target="blank"><img src="https://img.shields.io/twitter/follow/OfficialPrasad0?logo=twitter&style=for-the-badge" alt="OfficialPrasad0" /></a> </p>
 
 ### Liked my GitHub:question::point_right: [Sponsor me a Dollar]() 💰 💵 :sparkles:
 
@@ -22,7 +22,9 @@
 <!-- - 📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Yn1CsXy92q98CYk5cWTySB4_CpY8Q9ej/view?usp=sharing) -->
 
 <!-- Hey, i'm [Prasad Aher](https://www.linkedin.com/in/prasad-aher-38b56a267/) a Python programmer with experience in data science libraries like NumPy and Pandas. I'm currently focused on expanding knowledge in AI and machine learning. I enjoys collaborating with others and is excited about the potential of data science to make a difference in various industries. I'm certified [Python Programmer](https://www.hackerrank.com/certificates/0c8db4078008) on hackerrank. -->
+ 
 
+### Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
 ### What can I help with:question::cyclone:
 <code>git commit -m "All about GitHub!"</code> :grin:
