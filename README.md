@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/Prasadcode22/README_FILE/blob/main/Hi.gif" width="30px"> I'm Prasad Aher</h1>
+<h1 align="center">Hi <img src="https://github.com/Prasadcode22/README_FILE/blob/main/wave.gif" width="30px"> I'm Prasad Aher <img src="https://github.com/Prasadcode22/README_FILE/blob/main/Hi.gif" width="30px"></h1>
 <h3 align="center">git commit -m "Hello, I'm Data Analyst"</h3>
 
 <p align="left"> <a href="https://twitter.com/OfficialPrasad0" target="blank"><img src="https://img.shields.io/twitter/follow/OfficialPrasad0?logo=twitter&style=for-the-badge" alt="OfficialPrasad0" /></a> 
