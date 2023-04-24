@@ -15,7 +15,7 @@
 
 ### Liked my GitHub:question::point_right: [Sponsor me a Dollar]() 💰 💵 :sparkles:
 
-- 👨‍💻 All about me is at [My Website](https://Prasadcode22.github.io/), [Linkedin](https://www.linkedin.com/in/prasad-aher-38b56a267/)
+- 👨‍💻 All about me is at [My Website](https://Prasadcode22.github.io/), [Linkedin](https://www.linkedin.com/in/prasad-aher-38b56a267/), [Instagram](https://instagram.com/aherprasadofficial?igshid=YmMyMTA2M2Y=)
 
 - 💬 Ask me about ``` var topics = [ "Data Science", "AI", "ML", "Python", "SQL" ] ```
 
