@@ -9,10 +9,6 @@
 </p> 
 
 
-
-
-
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Prasadcode22&label=Profile%20views&color=0e75b6&style=flat" alt="Prasadcode22" /> </p>
 
 ![Banner](https://github.com/Prasadcode22/README_FILE/blob/main/2.png)
