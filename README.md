@@ -3,7 +3,6 @@
 
 <!-- <img src="https://github.com/Prasadcode22/README_FILE/blob/main/Data-Website-Analytics.gif" width="150px" align = "right"> -->
 </h3>
-
 <p align="left"> <a href="https://twitter.com/OfficialPrasad0" target="blank"><img src="https://img.shields.io/twitter/follow/OfficialPrasad0?logo=twitter&style=for-the-badge" alt="OfficialPrasad0" /></a> 
 
 
