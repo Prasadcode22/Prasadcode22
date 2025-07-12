@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/Prasadcode22/README_FILE/blob/main/wave.gif" width="30px">, I'm Prasad Aher <img src="https://github.com/Prasadcode22/README_FILE/blob/main/Hi.gif" width="50px"></h1>
+<h1 align="center">Hi<img src="https://github.com/Prasadcode22/README_FILE/blob/main/wave.gif" width="30px">, I'm Prasad Aher <img src="https://github.com/Prasadcode22/README_FILE/blob/main/Hi.gif" width="50px"></h1>
 <!-- <h3 align="center">git commit -m "Hello, I'm Data Analyst"  -->
 
 <!-- <img src="https://github.com/Prasadcode22/README_FILE/blob/main/Data-Website-Analytics.gif" width="150px" align = "right"> -->
